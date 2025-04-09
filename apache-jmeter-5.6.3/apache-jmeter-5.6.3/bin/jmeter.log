@@ -1,0 +1,26 @@
+2025-04-09 14:48:31,118 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-04-09 14:48:31,130 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2025-04-09 14:48:31,130 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2025-04-09 14:48:31,133 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-04-09 14:48:31,133 INFO o.a.j.JMeter: Version 5.6.3
+2025-04-09 14:48:31,133 INFO o.a.j.JMeter: java.version=21.0.5
+2025-04-09 14:48:31,133 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-04-09 14:48:31,133 INFO o.a.j.JMeter: os.name=Windows 11
+2025-04-09 14:48:31,133 INFO o.a.j.JMeter: os.arch=amd64
+2025-04-09 14:48:31,133 INFO o.a.j.JMeter: os.version=10.0
+2025-04-09 14:48:31,134 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-04-09 14:48:31,134 INFO o.a.j.JMeter: java.awt.headless=null
+2025-04-09 14:48:31,134 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-04-09 14:48:31,134 INFO o.a.j.JMeter: Available Processors =20
+2025-04-09 14:48:31,139 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-04-09 14:48:31,139 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-04-09 14:48:31,139 INFO o.a.j.JMeter: JMeterHome=F:\download\apache-jmeter-5.6.3\apache-jmeter-5.6.3
+2025-04-09 14:48:31,139 INFO o.a.j.JMeter: user.dir  =F:\download\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2025-04-09 14:48:31,139 INFO o.a.j.JMeter: PWD       =F:\download\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2025-04-09 14:48:31,140 INFO o.a.j.JMeter: IP: 192.168.1.4 Name: DESKTOP-C434KRD FullName: DESKTOP-C434KRD
+2025-04-09 14:48:31,149 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-04-09 14:48:31,259 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+2025-04-09 14:48:31,840 INFO o.a.j.r.ClassFinder: Will scan jar F:\download\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-04-09 14:48:31,916 INFO o.a.j.r.ClassFinder: Will scan jar F:\download\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-04-09 14:48:31,981 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_11-d3fc06f36662670f63075d9b0e735c0e-gui
+2025-04-09 14:48:34,395 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.10, jmeter-core=5.6.3, jmeter-ftp=5.6.3, jmeter-http=5.6.3, jmeter-jdbc=5.6.3, jmeter-jms=5.6.3, jmeter-junit=5.6.3, jmeter-java=5.6.3, jmeter-ldap=5.6.3, jmeter-mail=5.6.3, jmeter-mongodb=5.6.3, jmeter-native=5.6.3, jmeter-tcp=5.6.3, jmeter-components=5.6.3]
