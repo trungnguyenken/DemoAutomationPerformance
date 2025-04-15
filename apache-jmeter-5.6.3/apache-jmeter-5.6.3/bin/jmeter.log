@@ -1,26 +1,72 @@
-2025-04-09 14:48:31,118 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
-2025-04-09 14:48:31,130 INFO o.a.j.JMeter: Loading user properties from: user.properties
-2025-04-09 14:48:31,130 INFO o.a.j.JMeter: Loading system properties from: system.properties
-2025-04-09 14:48:31,133 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
-2025-04-09 14:48:31,133 INFO o.a.j.JMeter: Version 5.6.3
-2025-04-09 14:48:31,133 INFO o.a.j.JMeter: java.version=21.0.5
-2025-04-09 14:48:31,133 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-2025-04-09 14:48:31,133 INFO o.a.j.JMeter: os.name=Windows 11
-2025-04-09 14:48:31,133 INFO o.a.j.JMeter: os.arch=amd64
-2025-04-09 14:48:31,133 INFO o.a.j.JMeter: os.version=10.0
-2025-04-09 14:48:31,134 INFO o.a.j.JMeter: file.encoding=UTF-8
-2025-04-09 14:48:31,134 INFO o.a.j.JMeter: java.awt.headless=null
-2025-04-09 14:48:31,134 INFO o.a.j.JMeter: Max memory     =1073741824
-2025-04-09 14:48:31,134 INFO o.a.j.JMeter: Available Processors =20
-2025-04-09 14:48:31,139 INFO o.a.j.JMeter: Default Locale=English (EN)
-2025-04-09 14:48:31,139 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
-2025-04-09 14:48:31,139 INFO o.a.j.JMeter: JMeterHome=F:\download\apache-jmeter-5.6.3\apache-jmeter-5.6.3
-2025-04-09 14:48:31,139 INFO o.a.j.JMeter: user.dir  =F:\download\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
-2025-04-09 14:48:31,139 INFO o.a.j.JMeter: PWD       =F:\download\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
-2025-04-09 14:48:31,140 INFO o.a.j.JMeter: IP: 192.168.1.4 Name: DESKTOP-C434KRD FullName: DESKTOP-C434KRD
-2025-04-09 14:48:31,149 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2025-04-09 14:48:31,259 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel
-2025-04-09 14:48:31,840 INFO o.a.j.r.ClassFinder: Will scan jar F:\download\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
-2025-04-09 14:48:31,916 INFO o.a.j.r.ClassFinder: Will scan jar F:\download\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
-2025-04-09 14:48:31,981 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_11-d3fc06f36662670f63075d9b0e735c0e-gui
-2025-04-09 14:48:34,395 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.10, jmeter-core=5.6.3, jmeter-ftp=5.6.3, jmeter-http=5.6.3, jmeter-jdbc=5.6.3, jmeter-jms=5.6.3, jmeter-junit=5.6.3, jmeter-java=5.6.3, jmeter-ldap=5.6.3, jmeter-mail=5.6.3, jmeter-mongodb=5.6.3, jmeter-native=5.6.3, jmeter-tcp=5.6.3, jmeter-components=5.6.3]
+2025-04-15 21:51:00,440 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-04-15 21:51:00,463 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2025-04-15 21:51:00,470 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2025-04-15 21:51:00,477 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-04-15 21:51:00,477 INFO o.a.j.JMeter: Version 5.6.3
+2025-04-15 21:51:00,477 INFO o.a.j.JMeter: java.version=21.0.5
+2025-04-15 21:51:00,477 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-04-15 21:51:00,477 INFO o.a.j.JMeter: os.name=Windows 11
+2025-04-15 21:51:00,477 INFO o.a.j.JMeter: os.arch=amd64
+2025-04-15 21:51:00,477 INFO o.a.j.JMeter: os.version=10.0
+2025-04-15 21:51:00,477 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-04-15 21:51:00,477 INFO o.a.j.JMeter: java.awt.headless=null
+2025-04-15 21:51:00,477 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-04-15 21:51:00,477 INFO o.a.j.JMeter: Available Processors =20
+2025-04-15 21:51:00,489 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-04-15 21:51:00,490 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-04-15 21:51:00,490 INFO o.a.j.JMeter: JMeterHome=F:\Bolt\DemoAutomationPerformance\apache-jmeter-5.6.3\apache-jmeter-5.6.3
+2025-04-15 21:51:00,490 INFO o.a.j.JMeter: user.dir  =F:\Bolt\DemoAutomationPerformance\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2025-04-15 21:51:00,490 INFO o.a.j.JMeter: PWD       =F:\Bolt\DemoAutomationPerformance\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2025-04-15 21:51:00,496 INFO o.a.j.JMeter: IP: 172.16.0.2 Name: DESKTOP-C434KRD FullName: DESKTOP-C434KRD
+2025-04-15 21:51:00,517 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-04-15 21:51:00,765 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+2025-04-15 21:51:01,517 INFO o.a.j.r.ClassFinder: Will scan jar F:\Bolt\DemoAutomationPerformance\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-04-15 21:51:01,592 INFO o.a.j.r.ClassFinder: Will scan jar F:\Bolt\DemoAutomationPerformance\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-04-15 21:51:01,650 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_11-060b34f5150c8fb6d68c91459ae66271-gui
+2025-04-15 21:51:03,756 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.10, jmeter-core=5.6.3, jmeter-ftp=5.6.3, jmeter-http=5.6.3, jmeter-jdbc=5.6.3, jmeter-jms=5.6.3, jmeter-junit=5.6.3, jmeter-java=5.6.3, jmeter-ldap=5.6.3, jmeter-mail=5.6.3, jmeter-mongodb=5.6.3, jmeter-native=5.6.3, jmeter-tcp=5.6.3, jmeter-components=5.6.3]
+2025-04-15 21:51:21,108 INFO o.a.j.s.FileServer: Default base='F:\Bolt\DemoAutomationPerformance\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2025-04-15 21:51:21,109 INFO o.a.j.g.a.Load: Loading file: F:\Bolt\DemoAutomationPerformance\assemblyai_callback_final_ok.jmx
+2025-04-15 21:51:21,109 INFO o.a.j.s.FileServer: Set new base='F:\Bolt\DemoAutomationPerformance'
+2025-04-15 21:51:21,248 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-04-15 21:51:21,258 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-04-15 21:51:21,260 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-04-15 21:51:21,261 INFO o.a.j.s.SaveService: Loading file: F:\Bolt\DemoAutomationPerformance\assemblyai_callback_final_ok.jmx
+2025-04-15 21:51:21,329 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-04-15 21:51:21,329 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-04-15 21:51:21,329 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-04-15 21:51:21,329 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-04-15 21:51:21,329 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-04-15 21:51:21,330 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-04-15 21:51:21,469 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-04-15 21:51:21,469 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-04-15 21:51:21,469 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-04-15 21:51:21,469 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-04-15 21:51:21,539 INFO o.a.j.r.ClassFinder: Will scan jar F:\Bolt\DemoAutomationPerformance\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-04-15 21:51:21,548 INFO o.a.j.r.ClassFinder: Will scan jar F:\Bolt\DemoAutomationPerformance\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-04-15 21:51:21,574 INFO o.a.j.s.FileServer: Set new base='F:\Bolt\DemoAutomationPerformance'
+2025-04-15 21:51:42,173 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-04-15 21:51:42,174 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-04-15 21:51:42,174 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-04-15 21:51:42,174 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-04-15 21:51:42,174 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-04-15 21:51:42,200 INFO o.a.j.r.ClassFinder: Will scan jar F:\Bolt\DemoAutomationPerformance\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-04-15 21:51:42,203 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-04-15 21:51:42,219 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2025-04-15 21:51:42,219 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2025-04-15 21:51:42,219 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-04-15 21:51:42,219 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-04-15 21:51:42,220 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-04-15 21:51:42,221 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-04-15 21:51:42,222 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2025-04-15 21:51:42,225 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-C434KRD
+2025-04-15 21:51:42,228 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2025-04-15 21:51:42,446 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2025-04-15 21:51:42,448 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2025-04-15 21:51:42,448 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2025-04-15 21:51:42,667 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2025-04-15 21:51:42,667 INFO o.a.j.u.SSLManager: KeyStore created OK
+2025-04-15 21:51:42,667 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2025-04-15 21:51:49,283 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2025-04-15 21:51:49,283 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2025-04-15 21:51:49,284 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-04-15 21:51:49,284 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
